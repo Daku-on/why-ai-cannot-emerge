@@ -1,6 +1,7 @@
 README – Why AI Cannot Emerge
+日本語は英語のあとにあります
 
-🇬🇧 Summary
+ Summary
 
 This short paper argues that current digital AI systems cannot truly emerge.
 Real emergence, it says, needs two things:
@@ -21,7 +22,7 @@ The conclusion:
 
 ---
 
-🇯🇵 要約
+ 要約
 
 本稿の主張はシンプルです。現在のデジタルAIは本当の意味で「創発」できない。
 創発には、
@@ -30,7 +31,7 @@ The conclusion:
 が不可欠です。
 
 一方、TransformerなどのAIは有限のウィンドウ、有限精度、離散時間の中で動くため、極限操作を計算できません。
-AIが示す「創発的」な振る舞いは、実際には**有限射影によるノイズ（擬似創発）**にすぎません。
+AIが示す「創発的」な振る舞いは、実際には **有限射影によるノイズ（擬似創発）** にすぎません。
 
 人間の脳は有限の素子で構成されながらもアナログ連続体として振る舞い、無限次元的な関数空間を形成します。
 したがって、AIは創発を近似しているだけであり、創発そのものを実現してはいない、という結論に至ります。
